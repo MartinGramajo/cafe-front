@@ -1,0 +1,52 @@
+{
+  "productos": [
+    {
+      "nombreProducto": "café",
+      "precio": 300,
+      "imagen": "https://images.pexels.com/photos/3020919/pexels-photo-3020919.jpeg",
+      "categoria": "bebida caliente",
+      "detalleProducto":"algun detalle",
+      "id": 1
+    },
+    {
+      "nombreProducto": "Medialuna",
+      "precio": "700",
+      "imagen": "https://images.pexels.com/photos/1775043/pexels-photo-1775043.jpeg",
+      "categoria": "salado",
+      "detalleProducto":"algun detalle",
+      "id": 3
+    },
+    {
+      "nombreProducto": "Té de matcha",
+      "precio": "1000",
+      "imagen": "https://images.pexels.com/photos/2227126/pexels-photo-2227126.jpeg",
+      "categoria": "bebida fria",
+      "detalleProducto":"algun detalle",
+      "id": 4
+    },
+    {
+      "nombreProducto": "té de durazno",
+      "precio": "600",
+      "imagen": "https://images.pexels.com/photos/4346282/pexels-photo-4346282.jpeg",
+      "categoria": "bebida caliente",
+      "detalleProducto":"algun detalle",
+      "id": 5
+    },
+    {
+      "nombreProducto": "cookies navideñas x4",
+      "precio": "800",
+      "imagen": "https://images.pexels.com/photos/6062022/pexels-photo-6062022.jpeg",
+      "categoria": "dulce",
+      "detalleProducto":"algun detalle",
+      "id": 6
+    }
+  ],
+  "usuarios": [
+    {
+      "nombreUsuario": "Admin",
+      "email": "admin@rollingcode.com",
+      "password": "123456aA",
+      "id": 1
+    }
+  ]
+}
